@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **JS, Java, ReactJS,**
+- 🌱 I’m currently learning **JS, Java, ReactJS**
 
 - 🤝 I’m looking for help with **Java**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **argjent.larv@gmail.com**
 
-- ⚡ Fun fact **Front > Back**
+- ⚡ **Front > Back**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
